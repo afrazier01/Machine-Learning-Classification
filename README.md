@@ -1,6 +1,6 @@
 # Data-Science-using-Python-Graduate-Final
 A simplified version of the Kaggle competition below was included above.
-* [Installation](#installation)https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/data
+* https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/data
 
 This snippet is from my modeling notebook 
 
