@@ -2,7 +2,7 @@
 A simplified version of the Kaggle competition below was completed in my modeling Colab notebook above.
 * https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/data
 
-> Note: Take a look [here](https://drive.google.com/file/d/15UycRDBmTjAdSIVEmvT5h3KmpoKGxQKI/view) to navigate directly to my notebook!
+    > Note: Take a look [here](https://colab.research.google.com/drive/1ivaMmp1Ua5EaK4Ztq-gz_kldUm-vNUM7#scrollTo=lyp9Uirwzibn) to navigate directly to my notebook!
 
 ![image](https://github.com/user-attachments/assets/e7b37e7f-7ef1-4d4d-8e68-fa72766b6de2)
 
