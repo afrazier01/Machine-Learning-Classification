@@ -1,4 +1,4 @@
-# Data-Science-using-Python-Graduate-Final
+# Data-Science-using-Python-Final-Project
 The Kaggle competition linked below was completed in my modeling Colab notebook above.
 * https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/data
 
