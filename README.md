@@ -1,5 +1,5 @@
 # Data-Science-using-Python-Final-Project
-This project was completed as part of my graduate final for the OPIM-5512 course at the University of Connecticut. You can find more information about the Kaggle competition linked below.
+This project was completed as part of my graduate final for the OPIM-5512 course at the University of Connecticut. You can find more information about the Kaggle competition in the linked below.
 * https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/data
 
     > Note: _Click [here](https://colab.research.google.com/drive/1ivaMmp1Ua5EaK4Ztq-gz_kldUm-vNUM7#scrollTo=lyp9Uirwzibn) to navigate directly to my Colab notebook!_
