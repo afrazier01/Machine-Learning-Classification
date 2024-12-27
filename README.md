@@ -1,5 +1,5 @@
 # Data-Science-using-Python-Final-Project
-The Kaggle competition linked below was completed in my modeling Colab notebook above.
+This project was completed as part of my graduate final for the OPIM-5512 course at the University of Connecticut. The Kaggle competition linked below was completed in my Colab notebook.
 * https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/data
 
     > Note: _Click [here](https://colab.research.google.com/drive/1ivaMmp1Ua5EaK4Ztq-gz_kldUm-vNUM7#scrollTo=lyp9Uirwzibn) to navigate directly to my notebook!_
