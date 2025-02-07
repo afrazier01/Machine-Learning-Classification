@@ -2,7 +2,7 @@
 This project was completed as part of my graduate final for the OPIM-5512 course at the University of Connecticut. You can find more information about the Kaggle competition in the link below.
 * https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/data
 
-    > Note: _Click [here](https://colab.research.google.com/drive/1ivaMmp1Ua5EaK4Ztq-gz_kldUm-vNUM7#scrollTo=lyp9Uirwzibn) to navigate directly to my Colab notebook!_
+    > Note: _Click [here](https://colab.research.google.com/drive/1MLymJT2aA-MkaVWjWyTXmNbevQgIZSw7#scrollTo=GgEBercefbGx) to navigate directly to my Colab notebook!_
 
 ![image](https://github.com/user-attachments/assets/e7b37e7f-7ef1-4d4d-8e68-fa72766b6de2)
 
